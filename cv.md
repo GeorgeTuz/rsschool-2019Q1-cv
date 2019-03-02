@@ -1,20 +1,20 @@
 #               George Tuz
 
-##Contacts   
+## Contacts
                 Birthday: 9 august 1992
                 From: Minsk
                 Mobile phone: +375298157671
                 E-mail: geogre_tuz@mail.ru
                 VK: https://vk.com/george_tuz
 
-##Summary    
+## Summary
                 Start with Junior JS Developer at EPAM Systems and climb the career ladder to the project manager. I have good analytical skills and logical thinking. I like to work in a collective.
 
-##Skills     
+## Skills
                 HTML, CSS, JavaScript, SQL
                 CMS Joomla
 
-##Experience 
+## Experience
                 January 2017 - Desember 2017
                 State institution of additional education for adults
                 "Center for Advanced Studies of Executives and Specialists of the 
@@ -27,7 +27,7 @@
                 http://c29815gb.beget.tech/
                 https://usadbaminsk.by
 
-##Education  
+## Education
                 2013-2019
                 Polotsk State University
                 Faculty of Information technology
@@ -41,5 +41,5 @@
                 Codeacademy
                 Codewars
 
-##English level 
+## English level
                 Pre-Intermediate
