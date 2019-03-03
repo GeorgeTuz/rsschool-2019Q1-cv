@@ -22,7 +22,7 @@
    Software Engineer  
    Service, setup of computers and electronic devices, website development
 
-My projects:
+   My projects:  
    [http://c29815gb.beget.tech](http://c29815gb.beget.tech/)  
    [https://usadbaminsk.by](https://usadbaminsk.by/)
 
@@ -40,4 +40,5 @@ My projects:
 
 ### English level
    Pre-Intermediate
+
 ***
