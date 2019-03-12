@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Maven Pro';
+    src: url(./assets/font/Maven_Pro/MavenPro-Regular.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 1024px;
+    min-width: 637px;
+    margin: 20px auto;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.container {
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+h1 {
+    margin: 20px 0 10px 0;
+    text-align: center;
+}
+
+.container div {
+    margin: 0 20px;
+
+}
+
+h3:first-child {
+    margin: 0 0 10px 0;
+}
+
+h3 {
+    margin: 20px 0 10px 0;
+}
+
+ul {
+    margin-left: 20px;
+}
+
+
+
+
+
+
